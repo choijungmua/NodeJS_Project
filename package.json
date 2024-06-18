@@ -1,0 +1,13 @@
+{
+  "name": "nopdejsproject",
+  "version": "1.0.0",
+  "description": "Zoom Clone using NodeJs, WebRTC and Websockets",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pug": "^3.0.3"
+  }
+}
